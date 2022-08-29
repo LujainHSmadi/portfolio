@@ -294,7 +294,6 @@ text-decoration: none !important;
 @media (max-width:1023px) and (min-width:411px) {
     body{
         font-size: 12px;
-        padding-top:200px;
     }
     .main h2{
         font-size: 0.8em;
@@ -313,12 +312,9 @@ text-decoration: none !important;
 @media (max-width:640px) and (min-width:425px) {
     .main {
     padding:0;
-  
-    
+     
     }
-    .navbar-nav {
-    margin: 7.5px -15px;
-}
+   
 
     body{
         font-size: 12px;
@@ -340,14 +336,7 @@ footer{
         display:none ;
         border: red 1px solid;
     }
-    header div .nav{
-        display: inline;
-        margin-left:0;
-    }
-      header div .nav{
-        display: inline;
-        margin-left:0;
-    }
+    
 }
 
 @media (max-width:424px) {
@@ -374,10 +363,7 @@ footer{
         font-size: 1.4em;
         
     }
-      header div .nav{
-        display: inline;
-        margin-left:0;
-    }
+    
 
 #footer-nav a{
     display: none;
