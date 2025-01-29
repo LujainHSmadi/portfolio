@@ -46,7 +46,7 @@ section{
 
 }
 
-#or{
+.or{
  animation-name: or;
     animation-duration: 7s;
      animation-iteration-count: infinite;
